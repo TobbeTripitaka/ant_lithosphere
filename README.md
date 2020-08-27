@@ -6,6 +6,6 @@ This reposatory contains code related to manuscript (in review).
 
 The Jupyter Notebook contains urls to relevant code. 
 
-- A constructed model can be downloaded from [here](https://cloudstor.aarnet.edu.au/plus/s/gwthBd9wHI6c5sm) (2GB, too large for github)
-- A Virtual Maschine with agrid installed can be downloaded from [here](https://cloudstor.aarnet.edu.au/plus/s/gwthBd9wHI6c5sm)
+- A constructed model can be downloaded from [here](https://cloudstor.aarnet.edu.au/plus/s/gwthBd9wHI6c5sm) (2GB, availible shortly!)
+- A Virtual Maschine with agrid installed can be downloaded from [here](https://cloudstor.aarnet.edu.au/plus/s/gwthBd9wHI6c5sm) (10GB availible shortly!)
 - agrid is available from [here](https://github.com/TobbeTripitaka/agrid)
