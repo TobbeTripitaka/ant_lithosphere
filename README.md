@@ -8,4 +8,4 @@ The Jupyter Notebook contains urls to relevant code.
 
 - A constructed model can be downloaded from [here - soon](url/to/aardnet)
 - A Virtual Maschine with agrid installed can be downloaded from [here - soon]
-- agrid is avilible from [here](https://github.com/TobbeTripitaka/agrid)
+- agrid is available from [here](https://github.com/TobbeTripitaka/agrid)
