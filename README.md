@@ -4,8 +4,10 @@
 
 This repository contains code related to a manuscript (in review). 
 
-The Jupyter Notebook contains urls to relevant code. 
+The Jupyter Notebook contains urls to relevant code and datasets used. 
 
-- A constructed model can be downloaded from [here](https://cloudstor.aarnet.edu.au/plus/s/gwthBd9wHI6c5sm) (2GB, availible shortly!)
+The netCDF file is a low resolution version of the model generated in the paper.
+
+- A higher resolution constructed model can be downloaded from [here](https://cloudstor.aarnet.edu.au/plus/s/gwthBd9wHI6c5sm) (2GB)
 - A Virtual Machine with agrid installed can be downloaded from [here](https://cloudstor.aarnet.edu.au/plus/s/gwthBd9wHI6c5sm) (10GB availible shortly!)
 - agrid is available from [here](https://github.com/TobbeTripitaka/agrid)
