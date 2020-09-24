@@ -2,7 +2,7 @@
 
 ---
 
-This repository contains code related to a manuscript (in review). 
+This repository contains code related to a manuscript (Accepted for publication in Frontiers in Earth Science-Solid Earth Geophysics). 
 
 The Jupyter Notebook contains urls to relevant code and datasets used. 
 
